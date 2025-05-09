@@ -9,4 +9,4 @@ Abra [http://localhost:3000](http://localhost:3000) para ver o projeto no navega
 
 ### `Para clonar o projeto`
 
-Digite: **git clone https://github.com/brenobccc/exemploReactMarioWorldCard** no terminal.
+Digite: **git clone https://github.com/brenobccc/exemploReactMarioWorldCard** no terminal, e aperte enter.
